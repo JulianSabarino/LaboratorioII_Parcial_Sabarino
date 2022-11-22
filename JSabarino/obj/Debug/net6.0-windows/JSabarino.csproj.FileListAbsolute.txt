@@ -1,0 +1,48 @@
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\bin\Debug\net6.0-windows\JSabarino.exe
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\bin\Debug\net6.0-windows\JSabarino.deps.json
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\bin\Debug\net6.0-windows\JSabarino.runtimeconfig.json
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\bin\Debug\net6.0-windows\JSabarino.dll
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\bin\Debug\net6.0-windows\JSabarino.pdb
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\obj\Debug\net6.0-windows\JSabarino.csproj.AssemblyReference.cache
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\obj\Debug\net6.0-windows\JSabarino.frmAdmin.resources
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\obj\Debug\net6.0-windows\JSabarino.frmAlumn.resources
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\obj\Debug\net6.0-windows\JSabarino.frmLog.resources
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\obj\Debug\net6.0-windows\JSabarino.frmProf.resources
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\obj\Debug\net6.0-windows\JSabarino.csproj.GenerateResource.cache
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\obj\Debug\net6.0-windows\JSabarino.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\obj\Debug\net6.0-windows\JSabarino.AssemblyInfoInputs.cache
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\obj\Debug\net6.0-windows\JSabarino.AssemblyInfo.cs
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\obj\Debug\net6.0-windows\JSabarino.csproj.CoreCompileInputs.cache
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\obj\Debug\net6.0-windows\JSabarino.dll
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\obj\Debug\net6.0-windows\refint\JSabarino.dll
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\obj\Debug\net6.0-windows\JSabarino.pdb
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\obj\Debug\net6.0-windows\JSabarino.genruntimeconfig.cache
+D:\repos\UTN-ProgNLab_II-TPs-\Sabarino TP1\JSabarino\obj\Debug\net6.0-windows\ref\JSabarino.dll
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\bin\Debug\net6.0-windows\JSabarino.exe
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\bin\Debug\net6.0-windows\JSabarino.deps.json
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\bin\Debug\net6.0-windows\JSabarino.runtimeconfig.json
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\bin\Debug\net6.0-windows\JSabarino.dll
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\bin\Debug\net6.0-windows\JSabarino.pdb
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\obj\Debug\net6.0-windows\JSabarino.csproj.AssemblyReference.cache
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\obj\Debug\net6.0-windows\JSabarino.frmAdmin.resources
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\obj\Debug\net6.0-windows\JSabarino.frmAlumn.resources
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\obj\Debug\net6.0-windows\JSabarino.frmLog.resources
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\obj\Debug\net6.0-windows\JSabarino.frmProf.resources
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\obj\Debug\net6.0-windows\JSabarino.frmSQLConn.resources
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\obj\Debug\net6.0-windows\JSabarino.csproj.GenerateResource.cache
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\obj\Debug\net6.0-windows\JSabarino.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\obj\Debug\net6.0-windows\JSabarino.AssemblyInfoInputs.cache
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\obj\Debug\net6.0-windows\JSabarino.AssemblyInfo.cs
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\obj\Debug\net6.0-windows\JSabarino.csproj.CoreCompileInputs.cache
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\obj\Debug\net6.0-windows\JSabarino.csproj.CopyComplete
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\obj\Debug\net6.0-windows\JSabarino.dll
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\obj\Debug\net6.0-windows\refint\JSabarino.dll
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\obj\Debug\net6.0-windows\JSabarino.pdb
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\obj\Debug\net6.0-windows\JSabarino.genruntimeconfig.cache
+D:\repos\JulianSabarino_PP_Labo2\JSabarino\obj\Debug\net6.0-windows\ref\JSabarino.dll

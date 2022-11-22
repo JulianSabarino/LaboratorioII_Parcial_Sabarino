@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "fv807ko0OUdo7usuheDOjcm0u4imREZxsfwSvzReA3AenW3s7vhPQsOQV3QFFdACfzN5mh0Mv/VMHbDN9/ELHQ==",
+  "success": false,
+  "projectFilePath": "D:\\repos\\JulianSabarino_PP_Labo2\\TestProject\\TestProject.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project JSabarino is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project JSabarino supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "JSabarino",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
